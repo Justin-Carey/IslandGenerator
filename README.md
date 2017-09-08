@@ -1,6 +1,6 @@
 # pythonAI
 
-##Installation
+## Installation
 ```
 git clone https://github.com/Justin-Carey/pythonAI.git`
 cd pythonAI
