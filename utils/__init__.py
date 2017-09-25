@@ -1,0 +1,10 @@
+def printFace(msg):
+    print('\n')
+    print('\\\\\\\\\\\\\\\\')
+    print('| _   _|')
+    print('|   |  |')
+    print('|  _|  |    -- %s' % msg)
+    print('|      |')
+    print('|     |')
+    print('|     |')
+    print('\n')
