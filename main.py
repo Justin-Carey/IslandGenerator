@@ -26,7 +26,7 @@ for i in range(0, png_size):
 
 png.from_array(test_png, 'RGB').save(file_name + '.png')
 
-utils.printFace("when I wasted my sunday morning doing this shit...")
+utils.printFace("when I wasted my sunday morning doing this...")
 
 print('%s.png of size %dx%d was create after %d iterations' %
       (file_name, png_size, png_size, for_loop_iterations))
